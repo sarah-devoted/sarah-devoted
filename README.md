@@ -2,7 +2,6 @@
 - 👀 I’m interested in pizza
 - 🌱 I’m currently learning awesome stuff
 - 💞️ I’m looking to collaborate on pizza
-- 📫 How to reach me sarah.carroll@devoted.com
 
 <!---
 sarah-devoted/sarah-devoted is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
